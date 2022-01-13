@@ -12,17 +12,17 @@
 
 - [计算机网络-自顶向下方法](./net/001)
 
-- [图解TCP/IP](./net/002)
+- [图解 TCP/IP](./net/002)
 
 - [网络是怎样连接的](./net/003)
 
 ## 4. Database
 
-- [基于Oracle的SQL优化](./database/001)
+- [基于 oracle 的 SQL 优化](./database/001)
 
 ## 5. Other
 
-- [Linux内核观测技术](./other/001)
+- [Linux 内核观测技术](./other/001)
 
 
 
