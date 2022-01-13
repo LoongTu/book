@@ -18,11 +18,11 @@
 
 ## 4. Database
 
-- [基于oracle的sql优化](./database/001)
+- [基于Oracle的SQL优化](./database/001)
 
 ## 5. Other
 
-- [linux内核观测技术](./other/001)
+- [Linux内核观测技术](./other/001)
 
 
 
